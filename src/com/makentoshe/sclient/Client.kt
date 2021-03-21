@@ -3,7 +3,6 @@ package com.makentoshe.sclient
 import io.ktor.client.*
 import io.ktor.client.engine.cio.*
 import space.jetbrains.api.runtime.SpaceHttpClient
-import space.jetbrains.api.runtime.types.*
 import space.jetbrains.api.runtime.withServiceAccountTokenSource
 
 /**
